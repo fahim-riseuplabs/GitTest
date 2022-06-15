@@ -8,4 +8,9 @@ public class test : MonoBehaviour
     {
 
     }
+
+    void playerUpdate()
+    {
+
+    }
 }
