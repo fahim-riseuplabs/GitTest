@@ -4,5 +4,8 @@ using UnityEngine;
 
 public class test : MonoBehaviour
 {
+  void playerUpdate()
+    {
 
+    }
 }
